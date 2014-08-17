@@ -1,0 +1,19 @@
+{
+    "title": "Leap Motion",
+    "startPanel": 1,
+    "panels": [
+        
+        {
+            "name": "Leap Motion",
+            "type": "Leap Motion",
+            "url": "panel/index.html"
+        }
+        
+    ],
+
+    "sources": {
+        "sources": ["The AP"],
+        "interactive": ["Nathan Griffiths"],
+        "reporting": ["The AP"]
+    }
+}
